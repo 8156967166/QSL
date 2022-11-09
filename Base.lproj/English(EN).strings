@@ -1,0 +1,92 @@
+/* 
+  English(EN).strings
+  PrjctQsl
+
+  Created by Bimal@AppStation on 06/07/22.
+  
+*/
+
+"key_Login" = "Login En";
+"key_UpperCaseSignIn" = "SIGN IN";
+"Key_Arabic" = "العربية";
+"key_PleaseEnter" = "Please Enter Your Info To Sign You In";
+"key_ForgotPassword" = "Forgot Password ?";
+"key_LowerCaseSignIn" = "Sign In";
+"key_Don'tHaveAccount" = "Don’t have an account ?";
+"key_SignUp" = "Sign Up";
+"key_Or" = "Or";
+"key_ContinueAsGuest" = "Continue As Guest";
+"Key_SIGNUP" = "SIGN UP";
+"key_PleaseEnterUp" = "Please Enter Your Info To Sign You Up";
+"key_IAccept" = "I Accept The";
+"key_TermsAndConditions" = "Terms And Conditions";
+"key_Doyouhaveanaccount?" = "Do you have an account?";
+"Key_MobileOrEmail" = "mobile or email";
+"key_Password" = "password";
+"key_fullName" = "full name";
+"key_code" = "code";
+"key_Mobile" = "mobile";
+"key_Email" = "email";
+"key_Gender" = "gender";
+"key_Country" = "country";
+"key_ConfirmPassword" = "confirm password";
+
+"key_Network_Error" = "Please check your internet connection";
+"key_Alert" = "Alert";
+"key_Ok" = "Ok";
+"key_EmailNotEnterAlert" = "Please enter a valid email";
+"key_PasswordNotEnterAlert" = "Please enter valid password";
+"key_StrongPassword" = "Minimum 8 characters at least 1 Uppercase Alphabet, 1 Lowercase Alphabet and 1 Number";
+"key_FullNameNotEnterAlert" = "Please enter your full name";
+"key_GenderNotEnterAlert" = "Please enter you gender";
+"key_ConfirmPasswordAlert" = "Please confirm the password";
+"key_CountryAlert" = "Please select your country";
+"key_PhoneNumberAlert" = "Please enter valid phone number";
+"key_OtpNotEnter" = "Please enter a valid otp";
+"key_VerifyIdentity" = "VERIFY IDENTITY";
+"key_ChangeEmail" = "Change Email";
+"key_VerifyPhone" = "Verify By Phone?";
+"key_Submit" = "Submit";
+"key_ChangeNumber" = "Change Number";
+"key_VerifyEmail" = "Verify By Email?";
+"key_UpdateEmailAddress" = "UPDATE EMAIL ADDRESS";
+"key_SendCode" = "Send Code";
+"key_UpdatePhoneNumber" = "UPDATE PHONE NUMBER";
+"key_AccountVerified" = "ACCOUNT VERIFIED";
+"key_Continue" = "Continue";
+"key_EmailPhoneEmptyAlert" = "Please enter registered email or mobile";
+"key_ClubProfile" = "Club Profile";
+"key_Unfollow" = "unfollow";
+"key_Club Name" = "Club Name";
+"key_Latest" = "Latest";
+"key_Club" = "Club";
+"key_Team" = "Team";
+"key_Contact" = "Contact";
+"key_LastNews" = "Last News";
+"key_Fixtures" = "Fixtures";
+"key_Results" = "Results";
+"key_Media" = "Media";
+"key_Titles" = "Titles";
+"key_History" = "History";
+"key_Coach" = "Coach";
+"key_Official Website" = "Official Website";
+"key_Phone Number" = "Phone Number";
+"key_Email" = "Email";
+"key_Location" = "Location";
+"key_Fax Number" = "Fax Number";
+"key_Follow" = "Follow";
+"key_Established" = "Established";
+"key_NickName" = "Nickname";
+"key_President" = "President";
+"key_AllClubs" = "All Clubs";
+"key_BuyTickets" = "Buy Tickets";
+"key_Unfavorite" = "Unfavorite";
+"key_Favorite" = "Favorite";
+"key_Unfollow" = "Unfollow";
+"key_Follow" = "Follow";
+"key_Main Sponsor" = "Main Sponsor";
+"key_Nationality" = "Nationality";
+"key_DateofBirth" = "Date of Birth";
+"key_To be determined" = "To be determined";
+"key_ReadMore" = "Read More";
+"key_ReadLess" = "Read Less";

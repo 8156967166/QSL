@@ -1,0 +1,91 @@
+/* 
+  Arabic(AR).strings
+  PrjctQsl
+
+  Created by Bimal@AppStation on 06/07/22.
+  
+*/
+"key_Login" = "تسجيل الدخول";
+"key_UpperCaseSignIn" = "تسجيل الدخول";
+"Key_Arabic" = "English";
+"key_PleaseEnter" = "الرجاء إدخال المعلومات الخاصة بك لتسجيل الدخول";
+"key_ForgotPassword" = "هل نسيت كلمة السر";
+"key_LowerCaseSignIn" = "تسجيل الدخول";
+"key_Don'tHaveAccount" = "ليس لديك حساب؟";
+"key_SignUp" = "اشتراك";
+"key_Or" = "أو";
+"key_ContinueAsGuest" = "تواصل كضيف";
+"Key_SIGNUP" = "اشتراك";
+"key_PleaseEnterUp" = "الرجاء إدخال المعلومات الخاصة بك للتسجيل";
+"key_IAccept" = "أقبل";
+"key_TermsAndConditions" = "الأحكام والشروط";
+"key_Doyouhaveanaccount?" = "هل لديك حساب؟";
+"Key_MobileOrEmail" = "المحمول أو البريد الإلكتروني";
+"key_Password" = "كلمه السر";
+"key_fullName" = "الاسم الكامل";
+"key_code" = "الاسم الكامل";
+"key_Mobile" = "التليفون المحمول";
+"key_Email" = "البريد الإلكتروني";
+"key_Gender" = "جنس";
+"key_Country" = "بلد";
+"key_ConfirmPassword" = "تأكيد كلمة المرور";
+
+"key_Network_Error" = "الرجاء التحقق من اتصال الانترنت الخاص بك";
+"key_Alert" = "انذار";
+"key_Ok" = "موافق";
+"key_EmailNotEnterAlert" = "يرجى إدخال البريد الإلكتروني الصحيح";
+"key_PasswordNotEnterAlert" = "من فضلك أدخل رقمك السري";
+"key_FullNameNotEnterAlert" = "من فضلك ادخل اسمك الكامل";
+"key_GenderNotEnterAlert" = "الرجاء إدخال جنسك";
+"key_ConfirmPasswordAlert" = "الرجاء تأكيد كلمة المرور";
+"key_CountryAlert" = "الرجاء تحديد بلدك";
+"key_PhoneNumberAlert" = "الرجاء إدخال رقم هاتف صحيح";
+"key_OtpNotEnter" = "الرجاء إدخال otp صالح";
+"key_VerifyIdentity" = "التحقق من الهوية";
+"key_ChangeEmail" = "تغيير الايميل";
+"key_VerifyPhone" = "التحقق عن طريق الهاتف؟";
+"key_Submit" = "يُقدِّم";
+"key_ChangeNumber" = "تغيير رقم";
+"key_VerifyEmail" = "التحقق عن طريق البريد الإلكتروني؟";
+"key_UpdateEmailAddress" = "تحديث البريد الألكتروني";
+"key_SendCode" = "أرسل الرمز";
+"key_UpdatePhoneNumber" = "تحديث رقم الهاتف";
+"key_AccountVerified" = "تم التحقق من الحساب";
+"key_Continue" = "يكمل";
+"key_StrongPassword" = "8 أحرف بحد أدنى على الأقل حرف واحد كبير وحرف أبجدي صغير ورقم واحد";
+"key_EmailPhoneEmptyAlert" = "الرجاء إدخال البريد الإلكتروني المسجل أو الهاتف المحمول";
+"key_ClubProfile" = "الملف الشخصي للنادي";
+"key_Unfollow" = "الغاء المتابعة";
+"key_Club Name" = "اسم النادي";
+"key_Latest" = "آخر";
+"key_Club" = "النادي";
+"key_Team" = "فريق";
+"key_Contact" = "فريق";
+"key_LastNews" = "آخر الأخبار";
+"key_Fixtures" = "تركيبات";
+"key_Results" = "نتائج";
+"key_Media" = "وسائل الإعلام";
+"key_Titles" = "الألقاب";
+"key_History" = "تاريخ";
+"key_Coach" = "مدرب رياضي";
+"key_Official Website" = "الموقع الرسمي";
+"key_Phone Number" = "رقم الهاتف";
+"key_Email" = "البريد الإلكتروني";
+"key_Location" = "موقع";
+"key_Fax Number" = "رقم الفاكس";
+"key_Follow" = "يتبع";
+"key_Established" = "أنشئت";
+"key_NickName" = "كنية";
+"key_President" = "رئيس";
+"key_AllClubs" = "جميع النوادي";
+"key_BuyTickets" = "اشتري تذاكر";
+"key_Unfavorite" = "غير مفضل";
+"key_Favorite" = "مفضل";
+"key_Unfollow" = "الغاء المتابعة";
+"key_Follow" = "يتبع";
+"key_Main Sponsor" = "الراعي الرئيسي";
+"key_Nationality" = "جنسية";
+"key_DateofBirth" = "تاريخ الولادة";
+"key_To be determined" = "يتم تحديدها";
+"key_ReadMore" = "اقرأ أكثر";
+"key_ReadLess" = "أقرأ أقل";
